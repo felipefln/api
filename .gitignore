@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/*
+migrations/
+*.bat
+.vscode
+*.idea
+*.sqlite3
+
