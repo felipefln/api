@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['apidjango1.herokuapp.com/', '127.0.0.1', 'localhost', '*']
 
 
 # Application definition
-django_heroku.settings(locals())
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
